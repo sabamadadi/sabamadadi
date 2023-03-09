@@ -2,6 +2,7 @@
 ✨ This is SABA! ✨
 
 🔭 I’m currently studying computer science at Shahid Beheshti University!
+https://www.linkedin.com/in/saba-madadi-8a7374256/
 
 <!--
 **sabamadadi/sabamadadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
