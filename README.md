@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently studying computer science at Shahid Beheshti University!
 
 <!--
 **sabamadadi/sabamadadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
