@@ -5,10 +5,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabamadadi&theme=apprentice)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabamadadi&theme=apprentice)
-
-Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabamadadi&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabamadadi&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabamadadi&theme=apprentice)
 
 
 <!--
