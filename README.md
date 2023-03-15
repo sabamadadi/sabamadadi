@@ -1,6 +1,14 @@
 <!-- Title -->
 <h1 align="center" title="...and I'm happy to see you here :)">👋 Hello! ✨ This is SABA! ✨</h1>
 
+<!-- Socials -->
+<p align="center">
+   <kbd>
+    <a href="https://www.linkedin.com/in/saba-madadi-8a7374256/" title="LinkedIn - Saba Madadi"><img src="https://img.shields.io/badge/-Saba_Madadi-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+     </kbd>
+</p>
+
+
 
 🔭 I’m currently studying computer science at Shahid Beheshti University!
 
