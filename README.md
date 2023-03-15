@@ -5,6 +5,8 @@
 <p align="center">
    <kbd>
     <a href="https://www.linkedin.com/in/saba-madadi-8a7374256/" title="LinkedIn - Saba Madadi"><img src="https://img.shields.io/badge/-Saba_Madadi-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+      <a href="https://github.com/sabamadadi" title="GitHub - @sabamadadi"><img src="https://img.shields.io/badge/-sabamadadi-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+
      </kbd>
 </p>
 
