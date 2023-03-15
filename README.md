@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! ✨ This is SABA! ✨</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 Hello! ✨ This is SABA! ✨</h1>
 
 
 🔭 I’m currently studying computer science at Shahid Beheshti University!
