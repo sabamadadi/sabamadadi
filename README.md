@@ -13,7 +13,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=21433236" />
      </kbd>
 </p>
 
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=default" width="500"/>
+</p>
 
 🔭 I’m currently studying computer science at Shahid Beheshti University!
 
