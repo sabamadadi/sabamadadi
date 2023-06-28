@@ -23,7 +23,12 @@ src="https://stackoverflow-badge.vercel.app/?userID=21433236" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabamadadi&theme=merko)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabamadadi&theme=merko)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabamadadi&theme=merko)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabamadadi&theme=merko) 
+
+![Saba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=8)
+
+![Saba's github views](https://komarev.com/ghpvc/?username=sabamadadi)
+
 
 <!--
 **sabamadadi/sabamadadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
