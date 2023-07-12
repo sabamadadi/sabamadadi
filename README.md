@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="GIFs/welcome.gif" />
+  <img width="500" src="GIFs/Welcome.gif" />
 </p>
 <h1 align="center">Hi 👋🏻, I'm Saba Madadi :) </h1>
 <h3 align="center">Computer science student at Shahid Beheshti University among many other things! </h3>
