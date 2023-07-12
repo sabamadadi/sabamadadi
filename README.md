@@ -1,4 +1,4 @@
-[![MasterHead](GIFs/Welcome.gif)]()
+[![MasterHead](GIFs/welcome.gif)]()
 
 ![Saba Madadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabamadadi&repo=MelODyHub)](https://github.com/sabamadadi/MelODyHub)
