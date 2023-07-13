@@ -19,6 +19,10 @@
   </kbd>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="Icons/Python.png" alt="blender" width="40" height="40"/> </a>
+
+
 ![Saba Madadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabamadadi&repo=MelODyHub)](https://github.com/sabamadadi/MelODyHub)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&layout=pie)](https://github.com/sabamadadi)
