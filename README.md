@@ -35,7 +35,7 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi" /></p>
 
 <p align="center">
-  <img width="500" src="GIFs/Welcome.gif" />
+  <img width="500" src="GIFs/End.gif" />
 </p>
 
 
