@@ -1,9 +1,12 @@
-<p align="center">¯\_( ͡° ͜ʖ ͡°)_/¯</p>
+
+<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
+<h3 align="center">Computer science student at Shahid Beheshti University among many other things! </h3>
+
+<p align="center">(●ˇ∀ˇ●)</p>
 <p align="center">
   <img width="500" src="GIFs/Welcome.gif" />
 </p>
-<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
-<h3 align="center">Computer science student at Shahid Beheshti University among many other things! </h3>
+<p align="center">ƪ(˘⌣˘)ʃ</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabamadadi&label=Profile%20views&color=0e75b6&style=flat" alt="sabamadadi" /> </p>
 
 - 🔭 I’m currently studying [CS](https://en.wikipedia.org/wiki/Computer_science) at [SBU](https://en.sbu.ac.ir/)!
