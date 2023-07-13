@@ -32,12 +32,10 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabamadadi&" alt="sabamadadi" /></p>
 
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi" /></p>
+
 <p align="center">
   <img width="500" src="GIFs/Welcome.gif" />
 </p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&layout=pie" alt="sabamadadi" /></p>
 
 
