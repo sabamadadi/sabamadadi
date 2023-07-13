@@ -1,15 +1,15 @@
 <p align="center">
   <img width="500" src="GIFs/Welcome.gif" />
 </p>
-<h1 align="center">Hi 👋🏻, I'm Saba Madadi :) </h1>
+<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) </h1>
 <h3 align="center">Computer science student at Shahid Beheshti University among many other things! </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabamadadi&label=Profile%20views&color=0e75b6&style=flat" alt="sabamadadi" /> </p>
 
 - 🔭 I’m currently studying at [SBU](https://en.sbu.ac.ir/)
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Coding**
 
-- 📫 How to reach me **sabamadadi@gmail.com**
+- 📫 How to reach me **sabamadadi9@gmail.com**
 
 
 ![Saba Madadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave)
