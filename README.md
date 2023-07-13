@@ -1,3 +1,4 @@
+<p align="center">¯\_( ͡° ͜ʖ ͡°)_/¯</p>
 <p align="center">
   <img width="500" src="GIFs/Welcome.gif" />
 </p>
@@ -19,25 +20,38 @@
   </kbd>
 </p>
 
+<p align="center">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</p>
+
 <h3 align="left"> 🔮 Languages and Tools ⚒️
 
 </h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="Icons/Python.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="Icons/PyCharm.png" alt="blender" width="40" height="40"/> </a> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="Icons/C++.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer"> <img src="Icons/SFML.png" alt="blender" width="40" height="40"/> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="Icons/Scene Builder.webp" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="Icons/C.png" alt="blender" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="Icons/VS.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="Icons/CLion.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.bloodshed.net/" target="_blank" rel="noreferrer"> <img src="Icons/DEV.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="Icons/Matlab.png" alt="blender" width="40" height="40"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Dart.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="Icons/R.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="Icons/Csharp.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="Icons/Sublime Text.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.maplesoft.com/" target="_blank" rel="noreferrer"> <img src="Icons/Maple.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="40" height="40"/> </a> <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="Icons/Rstudio.png" alt="blender" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="Icons/Jupyter.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="Icons/Java.png" alt="blender" width="40" height="40"/> </a> <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="Icons/JavaFX.png" alt="blender" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank" rel="noreferrer"> <img src="Icons/NET.png" alt="blender" width="66" height="40"/> </a> <a href="https://www.wolfram.com/mathematica/online/?src=google&420&gclid=CjwKCAjwwb6lBhBJEiwAbuVUSpCgt_R9lpPPdKxqgNg18XgfZcRdi3sA_ZGSHJEAjtZWdtHeS2h4PxoC1FAQAvD_BwE" target="_blank" rel="noreferrer"> <img src="Icons/WM.png" alt="blender" width="66" height="40"/> </a>
 
+<p align="center">(👉ﾟヮﾟ)👉</p>
+
 <details>
+  
   <summary><b>Expand to see my latest project! 👀 </b></summary>
     <p>
       
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabamadadi&repo=MelODyHub)](https://github.com/sabamadadi/MelODyHub)
 </p>
+  
 </details>
-
+  
+  <p align="center">༼ つ ◕_◕ ༽つ</p>
+    
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabamadadi&" alt="sabamadadi" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi" /></p>
 
+<p align="center">(●'◡'●)</p>
+  
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi" /></p>
+  
+<p align="center">(❁´◡`❁)</p>
+  
 <p align="center">
   <img width="500" src="GIFs/End.gif" />
 </p>
-
-
+  
+<p align="center">(✿◡‿◡)</p>
