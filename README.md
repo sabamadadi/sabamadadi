@@ -30,16 +30,16 @@
 <p align="left"> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="Icons/Jupyter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="Icons/PyCharm.png" alt="blender" width="50" height="50"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="Icons/VS.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="Icons/CLion.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.bloodshed.net/" target="_blank" rel="noreferrer"> <img src="Icons/DEV.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="Icons/IJ.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="Icons/Sublime Text.png" alt="blender" width="50" height="50"/> </a> <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="Icons/Rstudio.png" alt="blender" width="50" height="50"/> </a>
 
 - Front
-<p align="left"> <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer"> <img src="Icons/SFML.png" alt="blender" width="50" height="50"/> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="Icons/Scene Builder.webp" alt="blender" width="50" height="50"/> </a> <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="Icons/JavaFX.png" alt="blender" width="50" height="50"/> </a> 
+<p align="left"> <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer"> <img src="Icons/SFML.png" alt="blender" width="50" height="50"/> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="Icons/Scene Builder.webp" alt="blender" width="50" height="50"/> </a> <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="Icons/JavaFX.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.javatpoint.com/java-swing" target="_blank" rel="noreferrer"> <img src="Icons/Swing.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="Icons/QT.png" alt="blender" width="50" height="50"/> </a>
 
 - Database
 
-<p align="left"> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="50" height="50"/> </a>
+<p align="left"> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="Icons/Mongo.png" alt="blender" width="50" height="50"/> </a>
 
 - Others
   
 </h3>
-<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>   
+<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>  
 
 
 <details>
