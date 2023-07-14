@@ -51,18 +51,18 @@
 
   <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi"  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sabamadadi" /></p>
 
-<p align="center">(❁´◡`❁)</p>
+<p align="center"> 💗 (❁´◡`❁) 💗 </p>
   
 <p align="center">
   <img width="500" src="GIFs/End.gif" />
 </p>
   
-<p align="center">(✿◡‿◡)</p>
+<p align="center"> 👒 (✿◡‿◡) 👒 </p>
 
 <p align="center">&nbsp;<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sabamadadi" /></p>
 
-<p align="center">ヾ(⌐■_■)ノ♪</p>
+<p align="center"> 🧩 ヾ(⌐■_■)ノ♪ 🧩 </p>
 
 <p align="center">&nbsp;<img src="https://github-contributor-stats.vercel.app/api?username=sabamadadi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="sabamadadi" /></p>
 
-<p align="center">( ﾟдﾟ)つ Bye</p>
+<p align="center"> 🌝 ( ﾟдﾟ)つ Bye 🌝 </p>
