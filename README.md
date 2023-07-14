@@ -15,15 +15,7 @@
 
 - 📫 Please contact me via <a href="https://t.me/sabamadadi9"> Telegram</a>.
   
-- 📱 You can also find me here: <a href="linkedin.com/in/saba-madadi-8a7374256"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="30" height="30"/></a>
-
-<p align="center">
-   <kbd>
-  <a href="https://stackoverflow.com/users/21433236/saba-madadi" title="Stack Overflow - Saba Madadi"><img src="https://img.shields.io/badge/-Saba Madadi-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/saba-madadi-8a7374256" title="LinkedIn - Saba Madadi"><img src="https://img.shields.io/badge/-Saba_Madadi-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sabamadadi" title="GitHub - @sabamadadi"><img src="https://img.shields.io/badge/-sabamadadi-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  </kbd>
-</p>
+- 📱 You can also find me here: <a href="linkedin.com/in/saba-madadi-8a7374256"> <img src="Icons/LinkedIn.png" alt="blender" width="30" height="30"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="30" height="30"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="30" height="30"/></a>
 
 <p align="center"> 🦜 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🦜 </p>
 
