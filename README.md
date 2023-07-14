@@ -9,13 +9,11 @@
 <p align="center"> 🐾 ƪ(˘⌣˘)ʃ 🐾 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabamadadi&label=Profile%20views&color=0e75b6&style=flat" alt="sabamadadi" /> </p>
 
-- 🔭 I’m currently studying [CS](https://en.wikipedia.org/wiki/Computer_science) at [SBU](https://en.sbu.ac.ir/)!
+- <a href="https://en.sbu.ac.ir/"> <img src="Icons/SBU.png" alt="blender" width="40" height="40"/></a>
 
-- 🌱 I’m currently learning **Coding**...
-
-- 📫 Please contact me via <a href="https://t.me/sabamadadi9"> Telegram</a>.
+- <a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a>
   
-- 📱 You can also find me here: <a href="linkedin.com/in/saba-madadi-8a7374256"> <img src="Icons/LinkedIn.png" alt="blender" width="30" height="30"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="30" height="30"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="30" height="30"/></a>
+- <a href="linkedin.com/in/saba-madadi-8a7374256"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a>
 
 <p align="center"> 🦜 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 🦜 </p>
 
