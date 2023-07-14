@@ -17,7 +17,7 @@
 
 <h2 align="left" title="🦜 You can also find me there! 👀"> Other Profiles </h2>
   
-<a href="https://www.linkedin.com/in/saba-madadi-8a7374256/"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a> <a href="https://www.hackerrank.com/sabamadadi9?hr_r=1"> <img src="Icons/HR.png" alt="blender" width="40" height="40"/></a>
+<a href="https://gitlab.com/sabamadadi1"> <img src="Icons/GL.png" alt="blender" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/saba-madadi-8a7374256/"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a> <a href="https://www.hackerrank.com/sabamadadi9?hr_r=1"> <img src="Icons/HR.png" alt="blender" width="40" height="40"/></a>
 
 
 
