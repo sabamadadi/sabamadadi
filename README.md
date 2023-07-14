@@ -31,9 +31,15 @@
 
 - Front
 <p align="left"> <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer"> <img src="Icons/SFML.png" alt="blender" width="50" height="50"/> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="Icons/Scene Builder.webp" alt="blender" width="50" height="50"/> </a> <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="Icons/JavaFX.png" alt="blender" width="50" height="50"/> </a> 
+
+- Database
+
+<p align="left"> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="50" height="50"/> </a>
+
+- Others
   
 </h3>
-<p align="left">   <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="40" height="40"/> </a>       <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="40" height="40"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="40" height="40"/> </a>   
+<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>   
 
 
 <details>
