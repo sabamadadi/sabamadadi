@@ -39,7 +39,7 @@
 - Others
   
 </h3>
-<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>  
+<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a> 
 
 
 <details>
