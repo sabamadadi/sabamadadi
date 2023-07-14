@@ -13,7 +13,9 @@
 
 - 🌱 I’m currently learning **Coding**...
 
-- 📫 You can contact me via <a href="https://t.me/sabamadadi9"> Telegram</a>. 
+- 📫 Please contact me via <a href="https://t.me/sabamadadi9"> Telegram</a>.
+  
+- 📱 You can also find me here: <a href="linkedin.com/in/saba-madadi-8a7374256"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="30" height="30"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="30" height="30"/></a>
 
 <p align="center">
    <kbd>
