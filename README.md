@@ -1,4 +1,4 @@
-
+<a href="mailto:sabamadadi9@gmail.com">Send email</a>
 <h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
 <h3 align="center">Computer science student at Shahid Beheshti University among many other things! </h3>
 
@@ -17,7 +17,9 @@
 
 <h2 align="left" title="🦜 You can also find me there! 👀"> Other Profiles </h2>
   
-<a href="https://www.linkedin.com/in/saba-madadi-8a7374256/"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/saba-madadi-8a7374256/"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a> <a href="https://www.hackerrank.com/sabamadadi9?hr_r=1"> <img src="Icons/HR.png" alt="blender" width="40" height="40"/></a>
+
+
 
 <h2 align="left" title=" You can click on each one to see more information! 🔮"> My Toolbox ⚒️</h2>
 
@@ -39,7 +41,7 @@
 - Others
   
 </h3>
-<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a> 
+<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>  
 
 
 <details>
