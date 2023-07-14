@@ -2,11 +2,11 @@
 <h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
 <h3 align="center">Computer science student at Shahid Beheshti University among many other things! </h3>
 
-<p align="center"> 💕 (●ˇ∀ˇ●) 💕 </p>
+<p align="center"> (●ˇ∀ˇ●) </p>
 <p align="center">
   <img width="500" src="GIFs/Welcome.gif" />
 </p>
-<p align="center"> 🐾 ƪ(˘⌣˘)ʃ 🐾 </p>
+<p align="center"> ƪ(˘⌣˘)ʃ </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabamadadi&label=Profile%20views&color=0e75b6&style=flat" alt="sabamadadi" /> </p>
 
 - <a href="https://en.sbu.ac.ir/"> <img src="Icons/SBU.png" alt="blender" width="40" height="40"/></a>
@@ -35,27 +35,27 @@
   
 </details>
   
-  <p align="center"> 🕊️ ༼ つ ◕_◕ ༽つ 🕊️ </p>
+  <p align="center">  ༼ つ ◕_◕ ༽つ </p>
     
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabamadadi&" alt="sabamadadi" /></p>
 
 
-<p align="center"> 🐞 (●'◡'●) 🐞 </p>
+<p align="center"> (●'◡'●) </p>
 
   <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi"  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sabamadadi" /></p>
 
-<p align="center"> 💗 (❁´◡`❁) 💗 </p>
+<p align="center"> (❁´◡`❁) </p>
   
 <p align="center">
   <img width="500" src="GIFs/End.gif" />
 </p>
   
-<p align="center"> 👒 (✿◡‿◡) 👒 </p>
+<p align="center"> (✿◡‿◡) </p>
 
 <p align="center">&nbsp;<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sabamadadi" /></p>
 
-<p align="center"> 🧩 ヾ(⌐■_■)ノ♪ 🧩 </p>
+<p align="center"> ヾ(⌐■_■)ノ♪ </p>
 
 <p align="center">&nbsp;<img src="https://github-contributor-stats.vercel.app/api?username=sabamadadi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="sabamadadi" /></p>
 
-<p align="center"> 🌝 ( ﾟдﾟ)つ Bye 🌝 </p>
+<p align="center"> ( ﾟдﾟ)つ Bye </p>
