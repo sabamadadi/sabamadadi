@@ -13,11 +13,11 @@
 
 <h2 align="left" title="🎆 I'll respond as soon as possible! 🎀"> Contact </h2>
 
-- <a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a>
+<a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a>
 
 <h2 align="left" title="🦜 You can also find me there! 👀"> Other Profiles </h2>
   
-- <a href="https://www.linkedin.com/in/saba-madadi-8a7374256/"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/saba-madadi-8a7374256/"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a>
 
 <h2 align="left" title="⚒️ You can click on each one to see more information! 🔮"> Languages and Tools </h2>
 
