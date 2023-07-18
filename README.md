@@ -1,5 +1,7 @@
-<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="200" height="100"/> </h1>
+<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
 <h3 align="center">Computer science student at Shahid Beheshti University among many other things!  </h3>
+
+<p align="center"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="180" height="65"/>
 
 <p align="center"> (●ˇ∀ˇ●) </p>
 <p align="center">
