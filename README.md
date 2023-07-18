@@ -2,6 +2,8 @@
 <h3 align="center">Computer science student at Shahid Beheshti University among many other things!  </h3>
 
 <p align="center"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="180" height="65"/>
+<p align="center"> <a href="https://sabamadadi.github.io/"> <img src="Icons/Website.png" alt="blender" width="70" height="70"/></a>
+
 
 <p align="center"> (●ˇ∀ˇ●) </p>
 <p align="center">
