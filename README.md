@@ -12,7 +12,7 @@
 
 <h2 align="left" title="🎆 I'll respond as soon as possible! 🎀"> Contact </h2>
 
-<a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a>
+<a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="40" height="40"/>
 
 <h2 align="left" title="🦜 You can also find me there! 👀"> Other Profiles </h2>
   
