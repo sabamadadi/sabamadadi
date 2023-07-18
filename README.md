@@ -1,5 +1,5 @@
-<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
-<h3 align="center">Computer science student at Shahid Beheshti University among many other things! </h3>
+<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="200" height="100"/> </h1>
+<h3 align="center">Computer science student at Shahid Beheshti University among many other things!  </h3>
 
 <p align="center"> (●ˇ∀ˇ●) </p>
 <p align="center">
@@ -8,11 +8,12 @@
 <p align="center"> ƪ(˘⌣˘)ʃ </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabamadadi&label=Profile%20views&color=0e75b6&style=flat" alt="sabamadadi" /> </p>
 
+
 - <a href="https://en.sbu.ac.ir/"> <img src="Icons/SBU.png" alt="blender" width="40" height="40"/></a>
 
 <h2 align="left" title="🎆 I'll respond as soon as possible! 🎀"> Contact </h2>
 
-<a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="40" height="40"/>
+<a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a>
 
 <h2 align="left" title="🦜 You can also find me there! 👀"> Other Profiles </h2>
   
