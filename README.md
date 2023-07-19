@@ -63,7 +63,7 @@
 
 <p align="center"> (●'◡'●) </p>
 
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=synthwave" alt="sabamadadi"  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sabamadadi" /></p>
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="sabamadadi"  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sabamadadi" /></p>
 
 <p align="center"> (❁´◡`❁) </p>
   
