@@ -86,4 +86,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sabamadadi&theme=discord"></p>
 
+<div align="center"> 
+
+
+![Saba Madadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabamadadi&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
+
+
+</div>
+
   <p align="center"> ( ﾟдﾟ)つ Bye </p>
