@@ -57,15 +57,16 @@
 <p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="Icons/Windows.png" alt="blender" width="50" height="50"/> </a>  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="Icons/Maven.jpg" alt="blender" width="50" height="50"/> </a>  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="Icons/Gradle.png" alt="blender" width="50" height="50"/> </a>  <a href="https://kernel.org/" target="_blank" rel="noreferrer"> <img src="Icons/Linux.png" alt="blender" width="50" height="50"/> </a>
 
 
+
 <details>
-  
-  <summary><b>Expand to see my latest project! </b></summary>
+  <summary><b>Expand to see my latest project!</b></summary>
     <p>
       
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabamadadi&repo=MelODyHub)](https://github.com/sabamadadi/MelODyHub)
 </p>
   
 </details>
+
   
   <p align="center">  ༼ つ ◕_◕ ༽つ </p>
     
