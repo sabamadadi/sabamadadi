@@ -2,6 +2,23 @@
 <h3 align="center">Computer science student at Shahid Beheshti University among many other things!  </h3>
 
 <p align="center"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="180" height="65"/>
+
+
+<p align="center">
+  <pre>
+     _____       _             __  __           _           _ _ 
+    / ____|     | |           |  \/  |         | |         | (_)
+   | (___   __ _| |__   __ _  | \  / | __ _  __| | __ _  __| |_ 
+    \___ \ / _` | '_ \ / _` | | |\/| |/ _` |/ _` |/ _` |/ _` | |
+    ____) | (_| | |_) | (_| | | |  | | (_| | (_| | (_| | (_| | |
+   |_____/ \__,_|_.__/ \__,_| |_|  |_|\__,_|\__,_|\__,_|\__,_|_|
+                                                              
+                                                              
+  </pre>
+</p>                                                        
+                                                              
+
+
 <p align="center"> <a href="https://sabamadadi.github.io/"> <img src="Icons/Website.png" alt="blender" width="70" height="70"/></a>
 
 <p align="center">
