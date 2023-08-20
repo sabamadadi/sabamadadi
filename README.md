@@ -52,17 +52,29 @@
 
 <details> <summary> Database </summary> 
 <br>
-<p align="left"> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="Icons/Mongo.png" alt="blender" width="50" height="50"/> </a><details>
+<p align="left"> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="Icons/Mongo.png" alt="blender" width="50" height="50"/> </a></details>
 
-- Others
+<details> <summary> Others </summary>
+<br>
+<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="Icons/Windows.png" alt="blender" width="50" height="50"/> </a>  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="Icons/Maven.jpg" alt="blender" width="50" height="50"/> </a>  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="Icons/Gradle.png" alt="blender" width="50" height="50"/> </a>  <a href="https://kernel.org/" target="_blank" rel="noreferrer"> <img src="Icons/Linux.png" alt="blender" width="50" height="50"/> </a></details>
   
-</h3>
-<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="Icons/Windows.png" alt="blender" width="50" height="50"/> </a>  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="Icons/Maven.jpg" alt="blender" width="50" height="50"/> </a>  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="Icons/Gradle.png" alt="blender" width="50" height="50"/> </a>  <a href="https://kernel.org/" target="_blank" rel="noreferrer"> <img src="Icons/Linux.png" alt="blender" width="50" height="50"/> </a>
+
+
 
 
 <h2 align="center" > Repositories </h2>
 
-<details> <summary> C++ </summary> <a href="https://github.com/sabamadadi/Pac-Man"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=BP Final Project&message=Pac-Man&color=blue&logo=github"> </a> <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=blue&logo=github"> </a></details> <details> <summary> Python </summary> <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=yellow&logo=github"> </a> </details> <details> <summary> Java </summary> <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=orange&logo=github"> </a> </details>
+<details> <summary> C++ </summary>
+<br>
+<a href="https://github.com/sabamadadi/Pac-Man"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=BP Final Project&message=Pac-Man&color=blue&logo=github"> </a> <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=blue&logo=github"> </a></details> 
+
+<details> <summary> Python </summary>
+<br>
+<a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=yellow&logo=github"> </a> </details>
+
+<details> <summary> Java </summary>
+<br>  
+<a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=orange&logo=github"> </a> </details>
 
                              
                              
