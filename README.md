@@ -1,5 +1,10 @@
 <h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sabamadadi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/sabamadadi?trk=profile-badge">Saba Madadi</a></div>
+              
+
+
 <p align="center"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="180" height="65"/>
 
 
