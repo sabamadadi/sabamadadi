@@ -121,18 +121,7 @@
 <p align="left"> <a> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>   <a> <img src="Icons/Windows.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Maven.jpg" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Gradle.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Linux.png" alt="blender" width="50" height="50"/> </a></details>
 
 
-<details> <summary> C++ </summary>
-<br>
-<a href="https://github.com/sabamadadi/Pac-Man"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=BP Final Project&message=Pac-Man&color=blue&logo=github"> </a> <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=blue&logo=github"> </a></details> 
-
-<details> <summary> Python </summary>
-<br>
-<a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=yellow&logo=github"> </a> </details>
-
-<details> <summary> Java </summary>
-<br>  
-<a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=blue&logo=github"> </a> </details>
-
+<h2 align="center" > 📊 𝐒𝐭𝐚𝐭𝐮𝐬 </h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&theme=defualt&show_icons=true" alt="Saba's github stats">
 </p>
 
