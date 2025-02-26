@@ -23,33 +23,52 @@
 <a href="https://gitlab.com/sabamadadi1"> <img src="Icons/GL.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a> <a href="https://www.hackerrank.com/sabamadadi9?hr_r=1"> <img src="Icons/HR.png" alt="blender" width="40" height="40"/></a>
 
 
+<h2 align="center" > 📃 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 </h2>
 
-<h2 align="center" title=""> 𝐌𝐲 𝐓𝐨𝐨𝐥𝐛𝐨𝐱 ⚒️ </h2>
+<h3 align="left" title=""> 𝐁.𝐒𝐜. 𝐂𝐨𝐮𝐫𝐬𝐞𝐬: </h3>
+
+* 𝐅𝐢𝐫𝐬𝐭 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫
+  * 𝐁𝐚𝐬𝐢𝐜 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 (𝐁𝐏)
+    * Item 3
+  * 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝟏
+  * 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 𝟏
+    * Item 3
+* 𝐒𝐞𝐜𝐨𝐧𝐝 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫
+  * 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 (𝐀𝐏)
+  
+    * <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=green&logo=github"> </a>
+  * 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 2
+  * 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 𝟏
+    * Item 3
+
+<h3 align="left" title=""> 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 (𝐑𝐀): </h3>
+
+<h3 align="left" title=""> 𝐇𝐞𝐚𝐝 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 (𝐇𝐞𝐚𝐝 𝐓𝐀): </h3>
+
+<h3 align="left" title=""> 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 (𝐓𝐀): </h3>
+
+
+
+<h3 align="left" title=""> 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐨 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲: </h3>
+
+
+<h2 align="center" title=""> ⚒️ 𝐌𝐲 𝐓𝐨𝐨𝐥𝐛𝐨𝐱 </h2>
 <h3 align="left" title=""> 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: </h3>
 
 <a> <img src="Icons/Python.png" alt="blender" width="50" height="50"/> </a> <a target="_blank" rel="noreferrer"> <img src="Icons/C (PL).png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/C++.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Csharp.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Java.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/R.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Html.png" alt="blender" width="50" height="50"/> </a> <a > <img src="Icons/CSS.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Matlab.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Maple.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/WM.webp" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Dart.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/SQL.png" alt="blender" width="50" height="50"/> </a>
 
-<details> <summary> IDEs </summary> 
-<br>
-<p align="left"> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="Icons/Jupyter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="Icons/PyCharm.png" alt="blender" width="50" height="50"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="Icons/VS.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="Icons/CLion.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.bloodshed.net/" target="_blank" rel="noreferrer"> <img src="Icons/DEV.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="Icons/IJ.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="Icons/Sublime Text.png" alt="blender" width="50" height="50"/> </a> <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="Icons/Rstudio.png" alt="blender" width="50" height="50"/> </a> <a href="https://github.blog/2022-06-08-sunsetting-atom/" target="_blank" rel="noreferrer"> <img src="Icons/Atom.png" alt="blender" width="50" height="50"/> </a> <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="Icons/Colab.png" alt="blender" width="50" height="50"/> </a> </details>
+<h3 align="left" title=""> 𝐈𝐃𝐄𝐬: </h3>
+<p align="left"> <a> <img src="Icons/Jupyter.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/PyCharm.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/VS.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/CLion.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/DEV.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/IJ.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Sublime Text.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Rstudio.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Atom.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Colab.png" alt="blender" width="50" height="50"/> </a>
 
-<details> <summary> Front </summary> 
-<br>
-<p align="left"> <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer"> <img src="Icons/SFML.png" alt="blender" width="50" height="50"/> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="Icons/Scene Builder.webp" alt="blender" width="50" height="50"/> </a> <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="Icons/JavaFX.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.javatpoint.com/java-swing" target="_blank" rel="noreferrer"> <img src="Icons/Swing.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="Icons/QT.png" alt="blender" width="50" height="50"/> </a> </details>
+<h3 align="left" title=""> 𝐅𝐫𝐨𝐧𝐭: </h3>
+<p align="left"> <a> <img src="Icons/SFML.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Scene Builder.webp" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/JavaFX.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Swing.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/QT.png" alt="blender" width="50" height="50"/> </a> </details>
 
-<details> <summary> Database </summary> 
-<br>
-<p align="left"> <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> <img src="Icons/pgAdmin.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="Icons/Mongo.png" alt="blender" width="50" height="50"/> </a></details>
-
-<details> <summary> Others </summary>
-<br>
-<p align="left"> <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a>        <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="Icons/Windows.png" alt="blender" width="50" height="50"/> </a>  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="Icons/Maven.jpg" alt="blender" width="50" height="50"/> </a>  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="Icons/Gradle.png" alt="blender" width="50" height="50"/> </a>  <a href="https://kernel.org/" target="_blank" rel="noreferrer"> <img src="Icons/Linux.png" alt="blender" width="50" height="50"/> </a></details>
+<h3 align="left" title=""> 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: </h3>
+<p align="left"> <a> <img src="Icons/pgAdmin.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Mongo.png" alt="blender" width="50" height="50"/> </a>
   
+<h3 align="left" title=""> &: </h3>
+<p align="left"> <a> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>   <a> <img src="Icons/Windows.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Maven.jpg" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Gradle.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Linux.png" alt="blender" width="50" height="50"/> </a></details>
 
-
-
-
-<h2 align="center" > Repositories </h2>
 
 <details> <summary> C++ </summary>
 <br>
