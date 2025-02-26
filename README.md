@@ -139,5 +139,4 @@
     
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabamadadi&" alt="sabamadadi" /></p>
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabamadadi&bg_color=f7fbff&color=0000FF&line=0000CC&point=00CCFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabamadadi&bg_color=fffefe&color=0000FF&line=0000CC&point=00CCFF&area=true&hide_border=true)
