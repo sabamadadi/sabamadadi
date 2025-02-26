@@ -37,7 +37,8 @@
   
 * 𝐒𝐞𝐜𝐨𝐧𝐝 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫
   * 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
-    * <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=Final Project&message=MelodyHub&color=green&logo=github"> </a>
+    
+    * <a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=Final Project&message=MelodyHub&color=blue&logo=github"> </a>
   * 𝐈𝐦𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠
   * 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐈𝐈
   * 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐌𝐚𝐭𝐡 𝐒𝐜𝐢𝐞𝐧𝐜𝐞𝐬
@@ -52,8 +53,7 @@
 * 𝐅𝐨𝐮𝐫𝐭𝐡 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫
   * 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤
   * 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
-  * 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐲𝐬𝐭𝐞𝐦𝐬
-  * 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐂𝐢𝐫𝐜𝐮𝐢𝐭𝐬 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐋𝐚𝐛
+  * 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 & 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐂𝐢𝐫𝐜𝐮𝐢𝐭𝐬 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐋𝐚𝐛
   * 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 𝐓𝐡𝐞𝐨𝐫𝐲
   * 𝐏𝐫𝐨𝐛𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐈
 
@@ -73,11 +73,34 @@
 
 <h3 align="left" title=""> 𝐇𝐞𝐚𝐝 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 (𝐇𝐞𝐚𝐝 𝐓𝐀): </h3>
 
+* 𝐒𝐩𝐫𝐢𝐧𝐠 𝟐𝟎𝟐𝟓
+  * 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+
+* 𝐅𝐚𝐥𝐥 𝟐𝟎𝟐𝟒
+  * 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬
+  * 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+  * 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐚𝐧𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
+
+* 𝐒𝐩𝐫𝐢𝐧𝐠 𝟐𝟎𝟐𝟒
+  * 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
+
 <h3 align="left" title=""> 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 (𝐓𝐀): </h3>
 
+* 𝐒𝐩𝐫𝐢𝐧𝐠 𝟐𝟎𝟐𝟓
+  * 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 & 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐂𝐢𝐫𝐜𝐮𝐢𝐭𝐬 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐋𝐚𝐛
+  * 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 + 𝐋𝐚𝐛
+  * 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
 
+* 𝐒𝐩𝐫𝐢𝐧𝐠 𝟐𝟎𝟐𝟒
+  * 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
+
+* 𝐅𝐚𝐥𝐥 𝟐𝟎𝟐𝟑
+  * 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
+  * 
 
 <h3 align="left" title=""> 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐨 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲: </h3>
+
+<h3 align="left" title=""> 𝐂𝐨𝐝𝐢𝐧𝐠 𝐀𝐬 𝐚 𝐇𝐨𝐛𝐛𝐲: </h3>
 
 
 <h2 align="center" title=""> ⚒️ 𝐌𝐲 𝐓𝐨𝐨𝐥𝐛𝐨𝐱 </h2>
@@ -108,42 +131,13 @@
 
 <details> <summary> Java </summary>
 <br>  
-<a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=orange&logo=github"> </a> </details>
+<a href="https://github.com/sabamadadi/MelodyHub"> <img alt="Repository Card" src="https://img.shields.io/static/v1?label=AP Final Project&message=MelodyHub&color=blue&logo=github"> </a> </details>
 
-                             
-                             
-                             
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&theme=defualt&show_icons=true" alt="Saba's github stats">
+</p>
 
     
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabamadadi&" alt="sabamadadi" /></p>
 
 
-
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="sabamadadi"  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamadadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sabamadadi" /></p>
-
-
-
-<p align="center">&nbsp;<img src="https://github-contributor-stats.vercel.app/api?username=sabamadadi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="sabamadadi" /></p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabamadadi&theme=discord"></p>
-
-<div align="center"> 
-
-
-![Saba Madadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabamadadi&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
-</div>
-
-<div align="center">
-  <a href="#">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-
-<p align="center">
-  
-  <img src="https://metrics.lecoq.io/sabamadadi?template=terminal&isocalendar=1&languages=1&achievements=1&lines=1&stars=1&habits=1&followup=1&people=1&sponsors=1&repositories=1&introduction=1&projects=1&gists=1&code=1&activity=1&notable=1&pagespeed=1&stackoverflow=1&leetcode=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=.sabamadadi.github.com&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&stackoverflow=false&stackoverflow.user=21433236&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&leetcode=false&leetcode.user=sabamadadi&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FTehran" alt="Metrics">
-</p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabamadadi&bg_color=f7fbff&color=0000FF&line=0000CC&point=00CCFF&area=true&hide_border=true)
