@@ -1,49 +1,33 @@
-<h1 align="center" title="...and I'm happy to see you here :)"> Hello 👋🏻, I'm Saba Madadi (◔◡◔) 👩🏻‍💻 </h1>
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sabamadadi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/sabamadadi?trk=profile-badge">Saba Madadi</a></div>
-              
-
-
-<p align="center"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saba-madadi-8a7374256" target="_blank"> <img src="Icons/LinkedIn_follow.png" alt="blender" width="180" height="65"/>
-
-
-
 ``````
-                         _____           _                   __  __               _               _   _ 
-                        / ____|         | |                 |  \/  |             | |             | | (_)
-                       | (___     __ _  | |__     __ _      | \  / |   __ _    __| |   __ _    __| |  _ 
-                        \___ \   / _` | | '_ \   / _` |     | |\/| |  / _` |  / _` |  / _` |  / _` | | |
-                        ____) | | (_| | | |_) | | (_| |     | |  | | | (_| | | (_| | | (_| | | (_| | | |
-                       |_____/   \__,_| |_.__/   \__,_|     |_|  |_|  \__,_|  \__,_|  \__,_|  \__,_| |_|
-                                                                                        
-``````                                                                                                                                     
+                                                     
+                        _ _   _    _        _  _             __          __           _      _   _   _ _ 
+                       ( | ) | |  | |      | || |            \ \        / /          | |    | | | | ( | )
+                        V V  | |__| |  ___ | || |  ___        \ \  /\  / /___   _ __ | |  __| | | |  V V 
+                             |  __  | / _ \| || | / _ \        \ \/  \/ // _ \ | '__|| | / _` | | |      
+                             | |  | ||  __/| || || (_) |  _     \  /\  /| (_) || |   | || (_| | |_|      
+                             |_|  |_| \___||_||_| \___/  ( )     \/  \/  \___/ |_|   |_| \__,_| (_)      
+                                                         |/                                              
+                                                                             
+                       
+``````     
+<h1 align="center" title="Happy to see you here :)"> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞... </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sabamadadi&label=Profile%20views&color=0e75b6&style=flat" alt="sabamadadi" /> </p>
+<h3 align="center">𝐈’𝐦 𝐒𝐚𝐛𝐚 𝐌𝐚𝐝𝐚𝐝𝐢. 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐨𝐧 <a href="https://www.linkedin.com/in/sabamadadi" target="_blank">𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧</a> 𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞! </h3>
 
 
-<p align="center">
-  <img width="500" src="GIFs/Welcome.gif" />
-</p>
-<p align="center"> ƪ(˘⌣˘)ʃ </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabamadadi&label=Profile%20views&color=0e75b6&style=flat" alt="sabamadadi" /> </p>
 
+<h4 align="left" title=""> 𝐃𝐢𝐫𝐞𝐜𝐭 𝐚𝐧𝐝 𝐐𝐮𝐢𝐜𝐤 𝐂𝐨𝐧𝐭𝐚𝐜𝐭: </h4> <a href="https://t.me/sabamadadi24"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a>
 
-- <a href="https://en.sbu.ac.ir/"> <img src="Icons/SBU.png" alt="blender" width="40" height="40"/></a>
-
-<h2 align="left" title="🎆 I'll respond as soon as possible! 🎀"> Contact </h2>
-
-<a href="https://t.me/sabamadadi9"> <img src="Icons/Telegram.webp" alt="blender" width="40" height="40"/></a>
-
-<h2 align="left" title="🦜 You can also find me there! 👀"> Other Profiles </h2>
+<h4 align="left" title=""> 𝐎𝐭𝐡𝐞𝐫 𝐏𝐫𝐨𝐟𝐢𝐥𝐞𝐬: </h4>
   
-<a href="https://gitlab.com/sabamadadi1"> <img src="Icons/GL.png" alt="blender" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/saba-madadi-8a7374256/"> <img src="Icons/LinkedIn.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a> <a href="https://www.hackerrank.com/sabamadadi9?hr_r=1"> <img src="Icons/HR.png" alt="blender" width="40" height="40"/></a>
+<a href="https://gitlab.com/sabamadadi1"> <img src="Icons/GL.png" alt="blender" width="40" height="40"/></a> <a href="https://leetcode.com/sabamadadi/"> <img src="Icons/Leetcode.webp" alt="blender" width="40" height="40"/></a> <a href="https://codeforces.com/profile/sabamadadi"> <img src="Icons/Code Forces.webp" alt="blender" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/21433236/saba-madadi"> <img src="Icons/Stack Overflow.png" alt="blender" width="40" height="40"/></a> <a href="https://www.hackerrank.com/sabamadadi9?hr_r=1"> <img src="Icons/HR.png" alt="blender" width="40" height="40"/></a>
 
 
 
-<h2 align="center" title=" You can click on each one to see more information! 🔮"> My Toolbox ⚒️</h2>
+<h2 align="center" title=""> 𝐌𝐲 𝐓𝐨𝐨𝐥𝐛𝐨𝐱 ⚒️ </h2>
+<h3 align="left" title=""> 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: </h3>
 
-<details> <summary> Languages </summary> 
-  <br>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="Icons/Python.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="Icons/C (PL).png" alt="blender" width="50" height="50"/> </a> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="Icons/C++.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="Icons/Csharp.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="Icons/Java.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="Icons/R.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="Icons/Html.png" alt="blender" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="Icons/CSS.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="Icons/Matlab.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.maplesoft.com/" target="_blank" rel="noreferrer"> <img src="Icons/Maple.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.wolfram.com/mathematica/online/?src=google&420&gclid=CjwKCAjwwb6lBhBJEiwAbuVUSpCgt_R9lpPPdKxqgNg18XgfZcRdi3sA_ZGSHJEAjtZWdtHeS2h4PxoC1FAQAvD_BwE" target="_blank" rel="noreferrer"> <img src="Icons/WM.webp" alt="blender" width="50" height="50"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="Icons/Dart.png" alt="blender" width="50" height="50"/> </a> <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="Icons/SQL.png" alt="blender" width="50" height="50"/> </a></details>
+<a> <img src="Icons/Python.png" alt="blender" width="50" height="50"/> </a> <a target="_blank" rel="noreferrer"> <img src="Icons/C (PL).png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/C++.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Csharp.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Java.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/R.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Html.png" alt="blender" width="50" height="50"/> </a> <a > <img src="Icons/CSS.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Matlab.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Maple.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/WM.webp" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Dart.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/SQL.png" alt="blender" width="50" height="50"/> </a>
 
 <details> <summary> IDEs </summary> 
 <br>
