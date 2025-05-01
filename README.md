@@ -25,15 +25,20 @@
 
 <h2 align="center" > 📃 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 </h2>
 
-<h3 align="left" title=""> 𝐁.𝐒𝐜. 𝐂𝐨𝐮𝐫𝐬𝐞𝐬: </h3>
-
-* 𝐅𝐢𝐫𝐬𝐭 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫
+<details>
+<summary><h3 align="left" > 𝐁.𝐒𝐜. 𝐂𝐨𝐮𝐫𝐬𝐞𝐬: </h3></summary>
+<p>* 𝐅𝐢𝐫𝐬𝐭 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫
   * 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐚𝐧𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
     * Item 3
   * 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐈
   * 𝐏𝐡𝐲𝐬𝐢𝐜𝐬 𝐈 + 𝐋𝐚𝐛
   * 𝐂𝐚𝐥𝐜𝐮𝐥𝐮𝐬 𝐈
-    * Item 3
+    * Item 3</p>
+</details>
+
+
+
+
   
 * 𝐒𝐞𝐜𝐨𝐧𝐝 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫
   * 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
@@ -119,6 +124,13 @@
   
 <h3 align="left" title=""> &: </h3>
 <p align="left"> <a> <img src="Icons/Android.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Office.png" alt="blender" width="50" height="50"/> </a> <a> <img src="Icons/Diagrams.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Flutter.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Docker.png" alt="blender" width="50" height="50"/> </a>   <a> <img src="Icons/Windows.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Maven.jpg" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Gradle.png" alt="blender" width="50" height="50"/> </a>  <a> <img src="Icons/Linux.png" alt="blender" width="50" height="50"/> </a></details>
+
+
+
+
+
+
+
 
 
 <h2 align="center" > 📊 𝐒𝐭𝐚𝐭𝐮𝐬 </h2>
