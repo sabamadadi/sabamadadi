@@ -45,5 +45,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=tokyonight" alt="Saba's github stats">
 </p>
 
-    
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabamadadi&" alt="sabamadadi" /></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sabamadadi&theme=cyber-streakglow&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
