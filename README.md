@@ -42,9 +42,7 @@
 
 <h2 align="center" > 📊 𝐒𝐭𝐚𝐭𝐮𝐬 </h2>
 
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&theme=defualt&show_icons=true" alt="Saba's github stats">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sabamadadi&show_icons=true&theme=tokyonight" alt="Saba's github stats">
 </p>
 
     
